@@ -2,6 +2,7 @@ _build
 deps
 node_modules
 tmp
+priv/static/assets
 
 .DS_Store
 .elixir_ls
